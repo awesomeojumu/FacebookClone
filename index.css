@@ -1,0 +1,174 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.fpl{
+    background:linear-gradient(white, #D3D8E8);
+}
+.fbblueheader{
+    background-color: #385898;
+    height:80px;
+    border-bottom: 1 solid #203358;
+}
+.fbhomepagelogo{
+    width: 150px;
+    background-blend-mode: color-burn;
+    color: #385898;
+    background-blend-mode: color-burn;
+    color: #385898;
+}
+.fbheadlogoblock, .blueheadmeun{
+    display: inline-block;
+    margin-left: 200px;
+}
+.blueheadmeun{
+    margin-left: 400px;
+    color: white;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.forgotpass a{
+    color: rgba(255, 255, 255, 0.548);
+    font-size: 12px;
+}
+.loginbutton{
+    background-color: #4068b8;
+    color:white;
+    font-weight: bold;
+    border: 0.5 solid #21345a;
+    padding: 4px;
+}
+.firstname, .lastname{
+    display: inline-block;
+}
+.accountblock{
+    float: right;
+    width: 600px;
+}
+.advertpage{
+    float: left;
+    width: 49%;
+}
+.createblock{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.createacount span{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+.quickandeasy{
+    font-size: 19px;
+    font-weight: normal;
+    font-family: inherit;
+    color: #1d2129;
+}
+.advertblock{
+    margin-left: 200px;
+}
+.advert{
+    color:#0e385f ;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+}
+.namefloatl, .namefloatr{
+    display: inline-block;
+}
+.signupblock{
+    width: 600px;
+}
+.letshide{
+    padding: 5px;
+    width: 50%;
+}
+.inputtext{
+    height: 30px;
+    border: 1px solid #ccd0d5;
+    padding-left: 5px;
+    background-color: white;
+    color: #bdc7d8;
+    border-radius: 3px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sec000{
+    height: 30px;
+    padding-left: 5px;
+    border: 1px solid #ccd0d5;
+    background-color: white;
+    color:#bdc7d8;
+    border-radius: 3px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 420px;
+}
+.birth{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #90949c;
+    font-size: large;
+    font-style: inherit;
+    font-weight: bold;
+}
+select{
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border: 1px solid #ccd0d5;
+    background-color: white;
+}
+.gender{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #90949c;
+    font-size: large;
+    font-style: inherit;
+    font-weight: bold;
+}
+.radioselector{
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    inline-size: 18px;
+}
+.nocookie{
+    width: 300px;
+}
+.nocookie p{
+    font-size: 12px;
+    color: #777;
+}
+.submit button{
+    border: 1px solid #777;
+    width: 150px;
+    height: 40px;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+    box-shadow: inset 0px 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    text-shadow: 0px 1px 2px rgba(0,0,0,0.5);
+    background-color: #69a74e;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+.regpass{
+    margin-top: 20px;
+    font-size: 14px;
+    padding-top: 15px;
+    color: #777;
+    font-weight: bold;
+}
+.regpass a{
+    cursor: pointer;
+    color: #385898;
+}
